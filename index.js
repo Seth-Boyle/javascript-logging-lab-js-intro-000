@@ -1,1 +1,3 @@
-console.error("Halp!");
+console.error("Error");
+console.warn("Warned");
+console.log("Message");
